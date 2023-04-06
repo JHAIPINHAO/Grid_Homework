@@ -4,8 +4,8 @@
 
 ### Python_Grid_Homework 專案
 
-專案執行檔 : index.py
-年齡和星座測試檔 : tests.py
+1. 專案執行檔 : index.py
+2. 年齡和星座測試檔 : tests.py
 
 ---
 
